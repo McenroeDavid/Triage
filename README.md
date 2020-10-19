@@ -8,10 +8,10 @@ On the other hand, As a contributor, one can provide solution for the same.
 
 Tirage application uses a number of open source projects to work properly:
 
-* [ASP.NET] - To build dynamic websites
 * [Python DJANGO] - Django is a Python-based free and open-source web framework that follows the model-template-views architectural pattern.
 * [SQLite] - SQLite is free and open-source software, and no special license is required to use it.
 * [HTML&CSS] - HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets)
+* [Java Script] - JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification
 
 Contact
 -------
